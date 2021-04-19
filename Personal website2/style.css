@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  height: 80%;
+  background: url(pict.png);
+  background-size: cover;
+}
+
+img {
+  border: 5px solid #ddd;
+  border-radius: 50%;
+  padding: 3px;
+  width: 160px;
+}
+
+.letter {
+  text-align: center;
+  color: Teal;
+}
+
+h1 {
+  color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h2 {
+  color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+h3 {
+  color: black;
+  font-family: verdana;
+  font-size: 25px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+
+.block1 {
+  width: 200px;
+  background: #ccc;
+  padding: 7px;
+  padding-right: 20px;
+  border: solid 1px black;
+  display: inline;
+  float: left;
+}
+
+.block2 {
+  width: 200px;
+  background: Teal;
+  padding: 6px;
+  border: solid 1px black;
+  float: left;
+  position: relative;
+  top: 78px;
+  left: -80px;
+}
+
+#t01 {
+  width: 80%;
+  height: 40%;
+  margin: 17%;
+  font-size: 130%;
+  background-color: CadetBlue;
+}
+
+TD,
+TH {
+  padding: 4px;
+  border: 2px solid black;
+}
+
+#f01 {
+  color: black;
+}
